@@ -1,6 +1,8 @@
 .header {
   padding: 20px 0;
+  margin: 0 auto;
 }
+
 .nav {
   display: flex;
   justify-content: space-between;
@@ -20,6 +22,7 @@
   position: relative;
   display: block;
   font-weight: 500;
+  font-size: 32px;
   letter-spacing: 0.02em;
   transition: 200ms ease-in;
 }
